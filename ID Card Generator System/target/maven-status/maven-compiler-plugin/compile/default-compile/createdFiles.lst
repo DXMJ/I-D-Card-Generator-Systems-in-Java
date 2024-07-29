@@ -1,0 +1,6 @@
+com\idcardgenerator\gui\IDCardGeneratorGUI$2.class
+com\idcardgenerator\gui\IDCardGeneratorGUI.class
+com\idcardgenerator\servlet\LoginServlet.class
+com\idcardgenerator\db\DatabaseConnection.class
+com\idcardgenerator\servlet\RegisterServlet.class
+com\idcardgenerator\gui\IDCardGeneratorGUI$1.class
